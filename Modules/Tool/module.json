@@ -1,0 +1,13 @@
+{
+    "name": "Tool",
+    "alias": "tool",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Tool\\Providers\\ToolServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Ccdc",
+    "alias": "ccdc",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Ccdc\\Providers\\CcdcServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
